@@ -1,0 +1,17 @@
+.list-data,
+.widget-container {
+    margin: 20px 0px;
+}
+
+.img-container {
+    margin: 20px 0px;
+    height: 200px;
+    width: 300px;
+    border: 2px solid black;
+}
+
+.img-container img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
